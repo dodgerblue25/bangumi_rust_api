@@ -18,7 +18,7 @@
 
 ```toml
 [dependencies]
-bgm_api = { git = "https://github.com/dodgerblue25/bangumi_rust_api.git" }
+bgm_api = "0.1.0"
 ```
 
 如果你在本地使用此项目，也可以直接依赖本地路径：
